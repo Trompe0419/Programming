@@ -1,0 +1,27 @@
+header{
+    /*background-color: red;*/
+    display: flex;
+}
+
+h1{
+    color: black;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: black;
+}
+
+button{
+    width: 100px;
+    height: 70px;
+}
+
+
+/*comment*/
